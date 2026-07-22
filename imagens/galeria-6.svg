@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 650">
   <defs>
-    <linearGradient id="g77626" x1="0" y1="0" x2="1" y2="1" gradientTransform="rotate(135 .5 .5)">
-      <stop offset="0" stop-color="#5A303A"/>
-      <stop offset="1" stop-color="#B9838C"/>
+    <linearGradient id="g30438" x1="0" y1="0" x2="1" y2="1" gradientTransform="rotate(135 .5 .5)">
+      <stop offset="0" stop-color="#1F5C4E"/>
+      <stop offset="1" stop-color="#4FAE86"/>
     </linearGradient>
   </defs>
-  <rect width="800" height="650" fill="url(#g77626)"/>
-  <g transform="translate(210.0 403.0) scale(1.0) rotate(-8)"><g opacity="0.25" fill="#E8C9CD" transform="">
+  <rect width="800" height="650" fill="url(#g30438)"/>
+  <g transform="translate(210.0 403.0) scale(1.0) rotate(-8)"><g opacity="0.25" fill="#D3ECE0" transform="">
       <ellipse cx="190" cy="430" rx="150" ry="330"/>
       <circle cx="70" cy="110" r="55"/>
       <circle cx="155" cy="65" r="49"/>
@@ -14,6 +14,6 @@
       <circle cx="315" cy="100" r="39"/>
       <circle cx="365" cy="155" r="33"/>
     </g></g>
-  <circle cx="400.0" cy="325.0" r="74.75" fill="rgba(36,28,30,.28)" stroke="#fff" stroke-opacity=".65"/>
+  <circle cx="400.0" cy="325.0" r="74.75" fill="rgba(22,33,28,.28)" stroke="#fff" stroke-opacity=".65"/>
     <g transform="translate(400.0 325.0)" stroke="#fff" fill="#fff" fill-opacity=".92" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M-18 18C-18 -10 10 -22 22 -22 22 -10 10 18 -18 18Z"/><path d="M-18 18 14 -14"/></g>
 </svg>
